@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="316" height="96" viewBox="0 0 316 96">
   <rect x=".5" y=".5" width="315" height="95" rx="10" fill="#121e17" stroke="#355343"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="15" y="32" font-size="19" font-weight="700" fill="#f4f5eb">Запуск и эксплуатация</text>
-    <text x="15" y="56" font-size="14.5" fill="#b9cdc1">Описываю запуск. Для задач очистки</text>
-    <text x="15" y="75" font-size="14.5" fill="#b9cdc1">предусматриваю dry-run.</text>
+    <text x="15" y="32" font-size="19" font-weight="700" fill="#f4f5eb">Setup and Operations</text>
+    <text x="15" y="56" font-size="14.5" fill="#b9cdc1">I document setup and use</text>
+    <text x="15" y="75" font-size="14.5" fill="#b9cdc1">dry-run mode for cleanup tasks.</text>
   </g>
 </svg>

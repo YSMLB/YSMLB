@@ -2,10 +2,10 @@
   <rect x=".5" y=".5" width="919" height="137" rx="15" fill="#131f18" stroke="#355343"/>
   <rect x="23" y="27" width="4" height="84" rx="2" fill="#60ee9d"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="43" y="51" font-size="28" font-weight="700" fill="#f4f5eb">Обсудим работу</text>
-    <text x="43" y="86" font-size="28" font-weight="700" fill="#f4f5eb">в вашей команде?</text>
+    <text x="43" y="59" font-size="31" font-weight="750" fill="#f4f5eb">Let's work together.</text>
+    <text x="43" y="91" font-size="19" fill="#a3bdb0">Get in touch about web apps, APIs, or 3D.</text>
     <rect x="670" y="45" width="219" height="48" rx="9" fill="#60ee9d"/>
-    <text x="698" y="76" font-size="20" font-weight="700" fill="#102218">Написать мне</text>
+    <text x="698" y="76" font-size="20" font-weight="700" fill="#102218">Email me</text>
   </g>
   <path d="M849 76l13-14m-11 0h11v11" fill="none" stroke="#102218" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

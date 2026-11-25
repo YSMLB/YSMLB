@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="316" height="96" viewBox="0 0 316 96">
   <rect x=".5" y=".5" width="315" height="95" rx="10" fill="#121e17" stroke="#355343"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="15" y="32" font-size="19" font-weight="700" fill="#f4f5eb">Тесты в Go</text>
-    <text x="15" y="56" font-size="14.5" fill="#b9cdc1">Проверяю обработчики</text>
-    <text x="15" y="75" font-size="14.5" fill="#b9cdc1">и бизнес-логику.</text>
+    <text x="15" y="32" font-size="19" font-weight="700" fill="#f4f5eb">Testing in Go</text>
+    <text x="15" y="56" font-size="14.5" fill="#b9cdc1">I test request handlers</text>
+    <text x="15" y="75" font-size="14.5" fill="#b9cdc1">and business logic.</text>
   </g>
 </svg>

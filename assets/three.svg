@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="216" height="96" viewBox="0 0 216 96">
-  <rect x=".5" y=".5" width="215" height="95" rx="10" fill="#121e17" stroke="#355343"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="139" viewBox="0 0 216 139">
+  <rect x=".5" y=".5" width="215" height="138" rx="10" fill="#121e17" stroke="#355343"/>
+  <svg width="40" height="40" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" x="15" y="13"><rect width="256" height="256" rx="60" fill="#242938" /><path fill-rule="evenodd" clip-rule="evenodd" d="M93.213 222.94L50 48L223.23 97.874L93.213 222.94Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round" /><path fill-rule="evenodd" clip-rule="evenodd" d="M136.583 72.9419L158.174 160.438L71.6071 135.493L136.583 72.9419Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round" /><path fill-rule="evenodd" clip-rule="evenodd" d="M115.103 147.36L104.379 103.895L147.387 116.241L115.103 147.36Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round" /><path fill-rule="evenodd" clip-rule="evenodd" d="M93.6509 60.4829L104.375 103.948L61.3669 91.6019L93.6509 60.4829Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round" /><path fill-rule="evenodd" clip-rule="evenodd" d="M179.663 85.2598L190.387 128.725L147.379 116.379L179.663 85.2598Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round" /><path fill-rule="evenodd" clip-rule="evenodd" d="M115.108 147.39L125.832 190.855L82.824 178.509L115.108 147.39Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round" /></svg>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="15" y="32" font-size="19" font-weight="700" fill="#f4f5eb">3D для веба</text>
-    <text x="15" y="56" font-size="14.5" fill="#b9cdc1">Интерактивные сцены</text>
-    <text x="15" y="75" font-size="14.5" fill="#b9cdc1">в браузере на Three.js.</text>
+    <text x="15" y="77" font-size="19" font-weight="700" fill="#f4f5eb">Web 3D</text>
+    <text x="15" y="101" font-size="14.5" fill="#b9cdc1">Interactive browser scenes</text>
+    <text x="15" y="120" font-size="14.5" fill="#b9cdc1">built with Three.js.</text>
   </g>
 </svg>

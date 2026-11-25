@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="36" viewBox="0 0 122 36">
+  <rect x=".5" y=".5" width="121" height="35" rx="7" fill="#60ee9d" stroke="#60ee9d"/>
+  <g transform="translate(9 7)" fill="none" stroke="#0f1c14" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="4" width="17" height="14" rx="2"/><path d="m3 6 8 6 8-6"/></g>
+  <text x="37" y="23" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#0f1c14">ПОЧТА</text>
+</svg>

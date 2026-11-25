@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="125" viewBox="0 0 216 125">
+  <rect x=".5" y=".5" width="215" height="124" rx="10" fill="#121e17" stroke="#355343"/>
+  <rect x="13" y="12" width="34" height="34" rx="8" fill="#1b3728"/>
+  <g transform="translate(19 18)" fill="none" stroke="#60ee9d" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="18" height="16" rx="3"/><path d="m5.5 7 3.5 4-3.5 4m6 0h5"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="14" y="70" font-size="19" font-weight="700" fill="#f4f5eb">Утилиты для CI</text>
+    <text x="14" y="93" font-size="14.5" fill="#b9cdc1">Docker Buildx и</text>
+    <text x="14" y="112" font-size="14.5" fill="#b9cdc1">автоматизация на Linux</text>
+  </g>
+</svg>

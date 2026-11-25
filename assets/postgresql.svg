@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="37" viewBox="0 0 112 37">
-  <rect x=".5" y=".5" width="111" height="36" rx="8" fill="#17281e" stroke="#355343"/>
-  <g transform="translate(8 8)" fill="none" stroke="#60ee9d" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="11" cy="5" rx="8" ry="3"/><path d="M3 5v12c0 1.7 3.6 3 8 3s8-1.3 8-3V5M3 11c0 1.7 3.6 3 8 3s8-1.3 8-3"/></g>
-  <text x="35" y="23" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#e1eee6">PostgreSQL</text>
-</svg>

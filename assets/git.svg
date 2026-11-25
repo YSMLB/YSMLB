@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="37" viewBox="0 0 112 37">
-  <rect x=".5" y=".5" width="111" height="36" rx="8" fill="#17281e" stroke="#355343"/>
-  <g transform="translate(8 8)" fill="none" stroke="#60ee9d" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="5" r="2.5"/><circle cx="6" cy="17" r="2.5"/><circle cx="16" cy="6" r="2.5"/><path d="M6 8v6m2.5-1c5 0 7.5-2 7.5-4.5"/></g>
-  <text x="35" y="23" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#e1eee6">Git</text>
-</svg>

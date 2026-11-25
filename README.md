@@ -8,9 +8,8 @@
 <p align="center"><strong>Открыт к предложениям на позицию Go Backend Developer</strong></p>
 
 <p align="center">
-  <a href="mailto:amirsaga4@gmail.com"><img src="./assets/email.svg" alt="Написать Амиру по почте"></a>
-  <a href="https://t.me/JAPYSM_vey"><img src="./assets/telegram.svg" alt="Написать Амиру в Telegram"></a>
-  <a href="https://ysmlb-github-io-rust.vercel.app"><img src="./assets/portfolio.svg" alt="Открыть портфолио Амира"></a>
+  <a href="mailto:amirisaga4@gmail.com"><img src="./assets/email.svg" alt="Написать Амиру по почте"></a>
+  <a href="https://t.me/JAPYSM"><img src="./assets/telegram.svg" alt="Написать Амиру в Telegram"></a>
 </p>
 
 <h2 align="center">Что я делаю</h2>
@@ -25,16 +24,16 @@
 
 <p align="center"><strong>Бэкенд и данные</strong></p>
 <p align="center">
-  <img src="./assets/go.svg" alt="Go">
-  <img src="./assets/postgresql.svg" alt="PostgreSQL">
-  <img src="./assets/sqlite.svg" alt="SQLite">
+  <img src="./assets/tools/go.svg" width="46" height="46" alt="Go">
+  <img src="./assets/tools/postgresql.svg" width="46" height="46" alt="PostgreSQL">
+  <img src="./assets/tools/sqlite.svg" width="46" height="46" alt="SQLite">
 </p>
 
 <p align="center"><strong>Разработка и запуск</strong></p>
 <p align="center">
-  <img src="./assets/docker.svg" alt="Docker">
-  <img src="./assets/linux.svg" alt="Linux">
-  <img src="./assets/git.svg" alt="Git">
+  <img src="./assets/tools/docker.svg" width="46" height="46" alt="Docker">
+  <img src="./assets/tools/linux.svg" width="46" height="46" alt="Linux">
+  <img src="./assets/tools/git.svg" width="46" height="46" alt="Git">
 </p>
 
 <h2 align="center">На что обращаю внимание</h2>
@@ -47,11 +46,11 @@
 <br>
 
 <p align="center">
-  <a href="mailto:amirsaga4@gmail.com"><img src="./assets/contact.svg" width="100%" alt="Обсудим Go-бэкенд в вашей команде? Написать Амиру."></a>
+  <a href="mailto:amirisaga4@gmail.com"><img src="./assets/contact.svg" width="100%" alt="Обсудим Go-бэкенд в вашей команде? Написать Амиру."></a>
 </p>
 
 <p align="center">
-  <a href="mailto:amirsaga4@gmail.com">amirsaga4@gmail.com</a>
+  <a href="mailto:amirisaga4@gmail.com">amirisaga4@gmail.com</a>
   &nbsp;·&nbsp;
-  <a href="https://t.me/JAPYSM_vey">@JAPYSM_vey</a>
+  <a href="https://t.me/JAPYSM">@JAPYSM</a>
 </p>

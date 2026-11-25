@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="316" height="125" viewBox="0 0 316 125">
-  <rect x=".5" y=".5" width="315" height="124" rx="10" fill="#121e17" stroke="#355343"/>
-  <rect x="13" y="12" width="34" height="34" rx="8" fill="#1b3728"/>
-  <g transform="translate(19 18)" fill="none" stroke="#60ee9d" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"><path d="M3 15.5h16v4H3zm8-12v10m-4-6 4-4 4 4m-9 10h.1"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="316" height="92" viewBox="0 0 316 92">
+  <rect x=".5" y=".5" width="315" height="91" rx="10" fill="#121e17" stroke="#355343"/>
+  <g transform="translate(287 13) scale(.76)" fill="none" stroke="#a3c6b2" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19h8" xmlns="http://www.w3.org/2000/svg" /><path d="m4 17 6-6-6-6" xmlns="http://www.w3.org/2000/svg" /></g>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="14" y="70" font-size="19" font-weight="700" fill="#f4f5eb">Запуск и эксплуатация</text>
-    <text x="14" y="93" font-size="14.5" fill="#b9cdc1">Описываю запуск. Для задач очистки</text>
-    <text x="14" y="112" font-size="14.5" fill="#b9cdc1">предусматриваю dry-run.</text>
+    <text x="14" y="31" font-size="18.5" font-weight="700" fill="#f4f5eb">Запуск и эксплуатация</text>
+    <text x="14" y="55" font-size="14.5" fill="#b9cdc1">Описываю запуск. Для задач очистки</text>
+    <text x="14" y="74" font-size="14.5" fill="#b9cdc1">предусматриваю dry-run.</text>
   </g>
 </svg>

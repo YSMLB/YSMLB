@@ -2,7 +2,7 @@
   <rect x=".5" y=".5" width="919" height="137" rx="15" fill="#131f18" stroke="#355343"/>
   <rect x="23" y="27" width="4" height="84" rx="2" fill="#60ee9d"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="43" y="51" font-size="28" font-weight="700" fill="#f4f5eb">Обсудим Go-бэкенд</text>
+    <text x="43" y="51" font-size="28" font-weight="700" fill="#f4f5eb">Обсудим работу</text>
     <text x="43" y="86" font-size="28" font-weight="700" fill="#f4f5eb">в вашей команде?</text>
     <rect x="670" y="45" width="219" height="48" rx="9" fill="#60ee9d"/>
     <text x="698" y="76" font-size="20" font-weight="700" fill="#102218">Написать мне</text>

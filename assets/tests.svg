@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="316" height="92" viewBox="0 0 316 92">
-  <rect x=".5" y=".5" width="315" height="91" rx="10" fill="#121e17" stroke="#355343"/>
-  <g transform="translate(287 13) scale(.76)" fill="none" stroke="#a3c6b2" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M13 5h8" xmlns="http://www.w3.org/2000/svg" /><path d="M13 12h8" xmlns="http://www.w3.org/2000/svg" /><path d="M13 19h8" xmlns="http://www.w3.org/2000/svg" /><path d="m3 17 2 2 4-4" xmlns="http://www.w3.org/2000/svg" /><path d="m3 7 2 2 4-4" xmlns="http://www.w3.org/2000/svg" /></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="316" height="96" viewBox="0 0 316 96">
+  <rect x=".5" y=".5" width="315" height="95" rx="10" fill="#121e17" stroke="#355343"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="14" y="31" font-size="18.5" font-weight="700" fill="#f4f5eb">Тесты в Go</text>
-    <text x="14" y="55" font-size="14.5" fill="#b9cdc1">Проверяю обработчики</text>
-    <text x="14" y="74" font-size="14.5" fill="#b9cdc1">и бизнес-логику.</text>
+    <text x="15" y="32" font-size="19" font-weight="700" fill="#f4f5eb">Тесты в Go</text>
+    <text x="15" y="56" font-size="14.5" fill="#b9cdc1">Проверяю обработчики</text>
+    <text x="15" y="75" font-size="14.5" fill="#b9cdc1">и бизнес-логику.</text>
   </g>
 </svg>

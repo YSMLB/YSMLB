@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="96" viewBox="0 0 216 96">
+  <rect x=".5" y=".5" width="215" height="95" rx="10" fill="#121e17" stroke="#355343"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="15" y="32" font-size="19" font-weight="700" fill="#f4f5eb">Фронтенд</text>
+    <text x="15" y="56" font-size="14.5" fill="#b9cdc1">Веб-интерфейсы на React</text>
+    <text x="15" y="75" font-size="14.5" fill="#b9cdc1">и TypeScript.</text>
+  </g>
+</svg>

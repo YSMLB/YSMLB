@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png">
-    <img src="./assets/hero.gif" width="100%" alt="Amir · YSMLB · Go Backend Developer. Пишу API и утилиты для CI.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-fullstack-static.png">
+    <img src="./assets/hero-fullstack.gif" width="100%" alt="Amir · YSMLB · Full-Stack Developer. Делаю веб-приложения, API и 3D.">
   </picture>
 </p>
 
-<p align="center"><strong>Открыт к предложениям на позицию Go Backend Developer</strong></p>
+<p align="center"><strong>Открыт к full-stack вакансиям</strong></p>
 
 <p align="center">
   <a href="mailto:amirisaga4@gmail.com"><img src="./assets/email.svg" alt="Написать Амиру по почте"></a>
@@ -15,22 +15,34 @@
 <h2 align="center">Что я делаю</h2>
 
 <p align="center">
-  <img src="./assets/api.svg" width="216" alt="API на Go. HTTP-обработчики и валидация запросов.">
-  <img src="./assets/data.svg" width="216" alt="Работа с данными. PostgreSQL, SQLite, схемы и миграции.">
-  <img src="./assets/ci.svg" width="216" alt="Утилиты для CI. Docker Buildx и автоматизация на Linux.">
+  <img src="./assets/frontend.svg" width="216" alt="Фронтенд. Веб-интерфейсы на React и TypeScript.">
+  <img src="./assets/backend.svg" width="216" alt="Бэкенд и данные. API на Go, PostgreSQL и SQLite.">
+  <img src="./assets/three.svg" width="216" alt="3D для веба. Интерактивные сцены в браузере на Three.js.">
 </p>
 
-<h2 align="center">Инструменты</h2>
+<h2 align="center">Стек и инструменты</h2>
 
-<p align="center"><strong>Бэкенд и данные</strong></p>
+<p align="center"><strong>Языки</strong></p>
 <p align="center">
   <img src="./assets/tools/go.svg" width="46" height="46" alt="Go">
-  <img src="./assets/tools/postgresql.svg" width="46" height="46" alt="PostgreSQL">
-  <img src="./assets/tools/sqlite.svg" width="46" height="46" alt="SQLite">
+  <img src="./assets/tools/csharp.svg" width="46" height="46" alt="C#">
+  <img src="./assets/tools/python.svg" width="46" height="46" alt="Python">
+  <img src="./assets/tools/javascript.svg" width="46" height="46" alt="JavaScript">
+  <img src="./assets/tools/typescript.svg" width="46" height="46" alt="TypeScript">
 </p>
 
-<p align="center"><strong>Разработка и запуск</strong></p>
+<p align="center"><strong>Фронтенд и 3D</strong></p>
 <p align="center">
+  <img src="./assets/tools/html.svg" width="46" height="46" alt="HTML">
+  <img src="./assets/tools/css.svg" width="46" height="46" alt="CSS">
+  <img src="./assets/tools/react.svg" width="46" height="46" alt="React">
+  <img src="./assets/tools/threejs.svg" width="46" height="46" alt="Three.js">
+</p>
+
+<p align="center"><strong>Данные и инфраструктура</strong></p>
+<p align="center">
+  <img src="./assets/tools/postgresql.svg" width="46" height="46" alt="PostgreSQL">
+  <img src="./assets/tools/sqlite.svg" width="46" height="46" alt="SQLite">
   <img src="./assets/tools/docker.svg" width="46" height="46" alt="Docker">
   <img src="./assets/tools/linux.svg" width="46" height="46" alt="Linux">
   <img src="./assets/tools/git.svg" width="46" height="46" alt="Git">
@@ -46,7 +58,7 @@
 <br>
 
 <p align="center">
-  <a href="mailto:amirisaga4@gmail.com"><img src="./assets/contact.svg" width="100%" alt="Обсудим Go-бэкенд в вашей команде? Написать Амиру."></a>
+  <a href="mailto:amirisaga4@gmail.com"><img src="./assets/contact.svg" width="100%" alt="Обсудим работу в вашей команде? Написать Амиру."></a>
 </p>
 
 <p align="center">
